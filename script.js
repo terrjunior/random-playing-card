@@ -1,6 +1,6 @@
 function deckBuilder() {
   const values = [
-    "A",
+    "Pikachu",
     "2",
     "3",
     "4",
